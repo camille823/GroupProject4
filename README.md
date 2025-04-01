@@ -1,4 +1,4 @@
-IS Group Project 4: Docker and Github Action
+<h1>IS Group Project 4: Docker and Github Action</h1>
 
 - Modifying new code from last task to this task
 - Logging into docker and using username and password to create token
